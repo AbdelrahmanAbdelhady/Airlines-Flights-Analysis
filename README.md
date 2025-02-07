@@ -278,10 +278,10 @@ Southwest Again Stands Out: Southwest also has the highest number of diverted an
 - **Pie Chart**: Cancellations categorized by reason
 - **Stacked Column Chart**: Cancellations by region
 - **Bar Chart**: Cancellations by airport
-- **Insights**:<hr>
- **Number of Cancelled Flights by Description (Pie Chart)**: The pie chart reveals the dominant reasons for cancellations. This is crucial for targeted interventions and mitigation strategies. For instance, if "Carrier" related issues are dominant, the airline needs to address internal operational challenges. If "Weather" is a significant slice, improved forecasting and passenger communication strategies are essential.<hr>
+- **Insights**:<br>
+ **Number of Cancelled Flights by Description (Pie Chart)**: The pie chart reveals the dominant reasons for cancellations. This is crucial for targeted interventions and mitigation strategies. For instance, if "Carrier" related issues are dominant, the airline needs to address internal operational challenges. If "Weather" is a significant slice, improved forecasting and passenger communication strategies are essential.<br>
 **Number of Cancelled Flights by Airport (Horizontal Bar Chart)**: Identifying airports with a high number of cancellations is vital for resource allocation and operational adjustments. Factors like hub size, weather patterns, and local airport challenges can influence these numbers. Airports with frequent cancellations require further investigation to understand underlying causes.<hr>
-**Number of Cancelled Flights by Region (Vertical Bar Chart)**: Regional analysis helps identify geographic areas with higher cancellation rates. This can be related to weather patterns, airspace congestion, or regional events.<hr>
+**Number of Cancelled Flights by Region (Vertical Bar Chart)**: Regional analysis helps identify geographic areas with higher cancellation rates. This can be related to weather patterns, airspace congestion, or regional events.<br>
 <hr>
 <hr>
 
